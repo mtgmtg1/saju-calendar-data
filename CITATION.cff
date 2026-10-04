@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "이 데이터를 쓰셨다면 아래처럼 출처를 밝혀 주십시오."
+title: "사주 만세력 데이터 1900~2100 (Saju calendar data)"
+type: dataset
+authors:
+  - name: "명리연구소"
+url: "https://saju.teamcat.app/data"
+repository-code: "https://github.com/mtgmtg1/saju-calendar-data"
+license: CC-BY-4.0
+date-released: "2026-10-04"
+keywords: [saju, manseryeok, solar terms, 24절기, 만세력, 일진, sexagenary cycle, lunar calendar]
