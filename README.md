@@ -1,5 +1,9 @@
 # 사주 만세력 데이터 1900~2100 (Saju calendar data)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23148840.svg)](https://doi.org/10.5281/zenodo.23148840)
+
+같은 데이터: [Hugging Face](https://huggingface.co/datasets/maremo2/saju-calendar-data) · 인용: DOI 10.5281/zenodo.23148840
+
 [명리연구소](https://saju.teamcat.app/data)의 만세력이 계산하는 표 세 가지를 CSV 로 공개합니다.
 사이트 화면과 같은 계산 함수에서 만든 값이며, 원본 배포 주소는 <https://saju.teamcat.app/data> 입니다.
 
